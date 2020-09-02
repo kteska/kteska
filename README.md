@@ -9,8 +9,3 @@
 <h3>Some of my Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kteska&show_icons=true&include_all_commits=true" alt="kteska" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteska&layout=compact&hide=html" alt="kteska" /></p>
-## Hey 👋, This is Kas
-[![Github Badge](https://img.shields.io/badge/-kteska-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kteska/)](https://www.github.com/kteska/) <p align='left'>ss</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=kteska alt=kteska /> </p>
-
