@@ -28,5 +28,5 @@
 
 <h3>Some of my Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteska&layout=compact&hide=html" alt="kteska" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kteska&show_icons=true&include_all_commits=true" alt="kteska" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kteska&show_icons=true&include_all_commits=true" alt="kteska" /></p>
 
