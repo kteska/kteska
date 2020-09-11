@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Kasia Teska
 [![Gmail Badge](https://img.shields.io/badge/-kasia@teska.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kasia@teska.pl)](mailto:kasia@teska.pl) [![Github Badge](https://img.shields.io/badge/-kteska-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kteska/)](https://www.github.com/kteska/) 
 
-<p align="left">I'm a 3rd year computer science student with a specialization web technologies engineering.</p>
+<h3 align="left">I'm a 3rd year computer science student with a specialization in web technologies engineering.</h3>
 
 <h3>Technologies I'm learning and using</h3>
 <p align="left">
