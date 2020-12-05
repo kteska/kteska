@@ -28,6 +28,6 @@
 <h4 align="left">📚 Reading books</h4>
 
 <h3>Some of my Github Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteska&langs_count=10&theme=gradient"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kteska&show_icons=true&include_all_commits=true&theme=gradient" alt="kteska" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteska&langs_count=10&theme=vision-friendly-dark"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kteska&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="kteska" /></p>
 
