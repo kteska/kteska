@@ -14,11 +14,11 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" alt="npm" width="80" height="80"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="mongodb" width="80" height="80"/>
   <img src="https://camo.githubusercontent.com/af4bf83ab2ca125346740f9961345a24ec43b3a9/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" alt="mocha" width="90" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1175240.png" alt="csharp" width="50" height="50"/>
+  <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="java" width="50" height="50"/> 
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
 </p>
 
