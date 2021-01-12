@@ -1,12 +1,12 @@
 ## Hey 👋 I'm Kasia
 [![Gmail Badge](https://img.shields.io/badge/-kasia@teska.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kasia@teska.pl)](mailto:kasia@teska.pl) [![Github Badge](https://img.shields.io/badge/-kteska-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kteska/)](https://www.github.com/kteska/) 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
 <h4 align="left">👩🏼‍🎓 I'm a 3rd year computer science student with a specialization in web technologies engineering.</h4>
 <h4 align="left">👩🏼‍💻 I aspire to be a frontend developer.</h4>
 
 <h3>🚀 Technologies and tools I'm learning and using</h3>
 <p align="left">
-  <img src="https://iconscout.com/icon/vuejs" alt="vuejs" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vuejs" width="50" height="50"/>
   <img src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" alt="vuetify" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
