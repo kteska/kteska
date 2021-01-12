@@ -20,6 +20,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="java" width="50" height="50"/> 
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-512/salesforce-3-569548.png" alt="salesforce" width="70" height="70"/> 
 </p>
 
 <h3 align="left">Some of my hobbies</h3>
