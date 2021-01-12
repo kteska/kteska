@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Kasia
 [![Gmail Badge](https://img.shields.io/badge/-kasia@teska.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kasia@teska.pl)](mailto:kasia@teska.pl) [![Github Badge](https://img.shields.io/badge/-kteska-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kteska/)](https://www.github.com/kteska/) 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
+
 <h4 align="left">👩🏼‍🎓 I'm a 3rd year computer science student with a specialization in web technologies engineering.</h4>
 <h4 align="left">👩🏼‍💻 I aspire to be a frontend developer.</h4>
 
@@ -8,11 +8,11 @@
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" alt="vuejs" width="50" height="50"/>
   <img src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" alt="vuetify" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="50" height="50"/>
-  <img src="https://fxoshack.files.wordpress.com/2016/05/1436439824nodejs-logo.png" alt="nodejs" width="50" height="50"/> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="50" height="50"/> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" alt="npm" width="60" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="60" height="60"/>
+  <img src="https://fxoshack.files.wordpress.com/2016/05/1436439824nodejs-logo.png" alt="nodejs" width="80" height="80"/> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80" height="80"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/npm-3-1175132.png" alt="npm" width="80" height="80"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" alt="mongodb" width="80" height="80"/>
   <img src="https://camo.githubusercontent.com/af4bf83ab2ca125346740f9961345a24ec43b3a9/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" alt="mocha" width="90" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
