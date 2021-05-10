@@ -23,10 +23,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/salesforce-3-569548.png" alt="salesforce" width="70" height="70"/> 
 </p>
 
-<h3 align="left">Some of my hobbies</h3>
-<h4 align="left">⛵️ Sailing</h4>
-<h4 align="left">🎹 Playing on piano</h4>
-<h4 align="left">📚 Reading books</h4>
 
 <h3>Some of my Github Stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kteska&langs_count=10&theme=vision-friendly-dark"/></p>
